@@ -40,7 +40,7 @@ export const calculoIPCA = (valor, mesInicial, anoInicial, mesFinal, anoFinal) =
 
 export const validacaoErro = (valor, mesInicial, anoInicial, mesFinal, anoFinal) => {
     const anoLimiteFinal = historicoInflacao[historicoInflacao.length - 1].ano;
-    const anoLimiteInicial = historicoInflacao[0].ano
+    const anoLimiteInicial = historicoInflacao[0].ano;
     const mesLimiteFinal = historicoInflacao[historicoInflacao.length - 1].mes;
     if (
         isNaN(valor) ||
