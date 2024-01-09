@@ -6,7 +6,8 @@ Este projeto é uma aplicação Node.js que fornece informações sobre o Índic
 
 ## Pré-requisitos
 
-Antes de iniciar, certifique-se de ter o Node.js instalado em seu ambiente de desenvolvimento.
+Para uso em servidor local: Antes de iniciar, certifique-se de ter o Node.js instalado em seu ambiente de desenvolvimento.   
+Para uso online: https://projetohistoricoipca-luiv.onrender.com/*Digite aqui as rotas* - Pule para o passo 4.
 
 ## Instalação
 
