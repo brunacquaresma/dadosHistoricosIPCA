@@ -1,4 +1,4 @@
-!(print.png "Índice Nacional de Preços ao Consumidor Amplo (IPCA)")
+![Imagem](print.png "Índice Nacional de Preços ao Consumidor Amplo (IPCA)")
 
 # Projeto Histórico IPCA
 
@@ -32,11 +32,11 @@ O servidor será iniciado na porta 8080.
 
 - `/historicoIPCA`: Retorna o histórico completo do IPCA ou um histórico específico para um ano fornecido como parâmetro.   
 
-  - Parâmetro opcional: ano (formato: YYYY)   
+   - Parâmetro opcional: ano (formato: YYYY)   
   
- - `/historicoIPCA/calculo`: Calcula o IPCA para um intervalo de datas fornecido.   
+- `/historicoIPCA/calculo`: Calcula o IPCA para um intervalo de datas fornecido.   
 
-  - Parâmetros obrigatórios: valor, mesInicial, anoInicial, mesFinal, anoFinal
+   - Parâmetros obrigatórios: valor, mesInicial, anoInicial, mesFinal, anoFinal
 
 - `/historicoIPCA/:id`: Retorna um registro específico com base no ID fornecido.
 
