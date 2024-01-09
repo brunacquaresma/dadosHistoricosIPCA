@@ -1,4 +1,4 @@
-![Imagem da inflação](print.png "Índice Nacional de Preços ao Consumidor Amplo (IPCA)")
+!(print.png "Índice Nacional de Preços ao Consumidor Amplo (IPCA)")
 
 # Projeto Histórico IPCA
 
@@ -49,3 +49,7 @@ O servidor será iniciado na porta 8080.
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adicionar novos recursos. Abra uma *issue* para discutir grandes mudanças antes de enviar um *pull request*.
+
+## Autoria
+
+Esta API foi desenvolvida por **Brunä Gomes**, com base nos conhecimentos fornecidos pelo curso **DevMedia**.
